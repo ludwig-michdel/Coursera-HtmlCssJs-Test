@@ -12,6 +12,7 @@ p{
 }
 
 h1{
+	padding: 30px;
 	text-align: center;
   	font-size: 1.75em;
 }
@@ -84,7 +85,9 @@ h2{
 {
 	.product
 	{
-		width: 100%;		
+		width: 100%;
+		padding-left: 8%;	
+		padding-right: 8%;	
 	}
 
 	p
@@ -124,8 +127,8 @@ h2{
 	}	
 
 	p
-	{		
-		min-height: 300;	
-		max-height: 300px;	
+	{
+		min-height: 250px;	
+		max-height: 250px;		
 	}
 }
