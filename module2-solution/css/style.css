@@ -7,6 +7,12 @@
   	box-sizing: border-box;
 }
 
+body
+{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
 p{
 	margin:10px;
 }
@@ -86,8 +92,6 @@ h2{
 	.product
 	{
 		width: 100%;
-		padding-left: 8%;	
-		padding-right: 8%;	
 	}
 
 	p
@@ -123,7 +127,7 @@ h2{
 {
 	.product
 	{
-		width: 33%;	
+		width: 33.33%;	
 	}	
 
 	p
