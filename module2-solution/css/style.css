@@ -44,29 +44,35 @@ p
 #p1 h2
 {
 	background-color: rgba(70, 150, 220, .6);
+  	border-bottom:solid 0.1em rgba(70, 150, 220, 0.8);  
+	border-left: solid 0.1em rgba(70, 150, 220, 0.8); 	
 }
 #p2 h2
 {
 	background-color: rgba(170, 50, 220, .6);
+	border-bottom: solid 0.1em rgba(170, 50, 220, .8);
+	border-left: solid 0.1em rgba(170, 50, 220, .8);
 }
 #p3 h2
 {
 	background-color: rgba(70, 150, 120, .6);
+	border-bottom : solid 0.1em rgba(70, 150, 120, .8);
+	border-left : solid 0.1em rgba(70, 150, 120, .8);
 }
 
 #p1 
 {	
-	border : solid 0.1em rgba(70, 150, 220, .3);
+	border : solid 0.1em rgba(70, 150, 220, .8);
 }
 
 #p2 
 {	
-	border : solid 0.1em rgba(170, 50, 220, .3);
+	border : solid 0.1em rgba(170, 50, 220, .8);
 }
 
 #p3 
 {	
-	border : solid 0.1em rgba(70, 150, 120, .3);
+	border : solid 0.1em rgba(70, 150, 120, .8);
 }
 
 .product
