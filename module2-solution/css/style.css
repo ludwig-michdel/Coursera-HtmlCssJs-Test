@@ -112,7 +112,8 @@ h2
 }
 
 h2{
-	min-width: 40%;
+	width:200px;
+	/*min-width: 40%;*/
 }
 
 /* Simple Responsive Framework. */
