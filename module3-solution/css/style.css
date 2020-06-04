@@ -1,0 +1,55 @@
+
+/********** Base styles **********/
+*
+{
+	font-family: Arial;
+	margin: 0px;
+  	box-sizing: border-box;
+}
+
+
+
+/** HEADER **/
+#header-nav {
+  border-radius: 0;
+  border: 0;
+}
+
+
+section
+{
+	margin-bottom: 200px;
+	padding-bottom: 200px;
+}
+
+h2
+{ 
+	color:white;
+  	font-size: 1.25em;
+  	padding: 10px;
+  	float:center;
+	padding-top: 10px;
+}
+
+p
+{
+	margin:10px;
+	clear:both;
+	justify-content:all;
+	padding: 0px 30px 30px 30px;
+	line-height: 1.8em;
+}
+
+
+.product
+{
+	position: relative;	
+	float:left;
+	padding: 10px;
+}
+
+.product div:nth-child(1)
+{
+	margin: 10px;
+	background-color: lightgray;
+}
